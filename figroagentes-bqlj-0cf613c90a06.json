@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "figroagentes-bqlj",
+  "private_key_id": "0cf613c90a0653859af5558dc7d72620dee5fc72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFY2kSEp1NFvyf\n3AktwmlHUr8j/3L6YQpaQviL7wgfDotKrYrIvQEdTjMmQkKSlVNAQfcz6cK//1K3\ntwMyr9FlFT7V1bYFMzaebxYBUGNQaS0F2fIT9dovTtiOEjcBzOb8zQKCyML5nFJe\nnbVEgQDawYzZiuL2UWvqaC2uSigcM7uBf+bKeU1Yye3ubIzS0LW+9gN3kSku9CB1\nJC9frPrJRkNGAacl6xXrfG3VVIL+0+PH4NMpXw6Bpw4cAS99HZuhMjU8GNo9vHQi\n7V/3lvBZv3VnkHFIFov4myTS3RRDOwqyFGmSp2x+1SRRzA6NTsWSqFQXkzMx0290\nTYQI746xAgMBAAECggEAIxmoZ4RT4I+D4NF5+F8n5Xz7bGVSht+WvbJHDGs3IH6v\nmln94fBqMFHlmpoRyIsxQK36TYr2DLpUdULgGLVXIQiEIfZc5dPTlJzgZt9qqbPq\nQ64b9By17c+xhqIKkhFjyfSSy7rzoPuBUj3tK/9crYnZiB3AeljEPezEosehFlJ0\nsTScQLMXXy1OI8tPeStWQ043d/qrTMdD6MXbCQicwt/M++VlbAAC6K/jZCGdpB+7\nhl9Ng7AyzlroQ8J8KHE4/sNfc08CajQxwrfqf/CeGdeYbbmKXqjAxyo8FLxJ+U9x\nNm9mzqNymbU9rUELK+vUdufcMR7OdJKkdgL9Wp4+WQKBgQDq3B4sYVGh92brbJ1D\nl8zRiDISxA9cdM9b+MdUM2KwHChntbfCbc75s1f0tNQKA2o35tQVkwIwnxHWghMx\ntO6znuqsSPFbbhsiupV3nIEqyHY5yxxuPmbN4x+U1MB5vLVhmXKzxqZrYqfFBstR\nTiV2AoOFbk/aM9HK1QgJkQi2DwKBgQDXJ9XbKAQgMYdFFgJaT2Hr416GYMcCu8G5\n/CBR8w1+C7Fjoc9KTnZfmQrFOB2r3NlQXQ48nvriZef5YH4BwnEJ1oN/1zPYwpGL\n82ZVwM9u9vRkOHYeXCs1MG9/Ug9zsnfl29u4CV+Q1bYmhSenp3sxt1NDxCDehP1b\n2qMzycIvPwKBgQCVeuP5ezdpzv1Cei7eBo/mDLlSGFdukSopb33uqYX2cPWGjLIY\nnatOYkdpCG6ssN+6FMCHurl6GMRRsxhkWrRSvqK+ZO65Mqsyv27CYmoTwOL+hbfi\nsvTbteMz5vVahjErnW7T3WuujWwaiuh9Jy/QnGj5U+yfBLxSTKSA8j6JIQKBgF5x\nvg5Vonn/Q8Gvx5ic//7r77JNCQ7KHF/nrMhMSL/rohJ6FOQpTQzpwTCRUXT/nOUJ\n9BXoM3juAsYU9TsQf04yO8cCUF/2CK3GSkWaPXQYM29K2Y66Jr1SZZ8eBmpjDP55\nZBmFA84wAaUnDiEqA4nvTz2P+l2zQwPvFXTGO9dBAoGBAKcw4z+Z3exWpJry2eT3\nT9118NuzYuY1XQ0RN9yPqMNDjrX2aJ/wYaiS9XzAs5vIFlE1MZkoA6PuXDNMP99X\nvqGeTu6t2B3jdwOCLRnch8dLhS+lijhz5TggyBtSmPXVra0/07V4THWU1tDx3ef/\nrYm/PE9bqxk42/yzgfWm4/aV\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow@figroagentes-bqlj.iam.gserviceaccount.com",
+  "client_id": "112614786085683120540",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow%40figroagentes-bqlj.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
